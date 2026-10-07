@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aman Sharma 👋
 
-<!--
-**saman200610-lang/saman200610-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) Student  
+💻 Learning Python & DSA  
+🤖 Exploring AI/ML  
+🚀 Building projects from scratch
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- AI/ML Fundamentals
+
+## Goals
+
+- Build real-world projects
+- Participate in hackathons
+- Learn DSA
+- Get internships
+- Explore AI/ML
+
+## Tech I'm Learning
+
+Python • Git • GitHub • AI/ML
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/aman-sharmaa0/)
